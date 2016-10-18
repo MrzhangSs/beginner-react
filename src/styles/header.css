@@ -1,0 +1,9 @@
+.navbar-brand.hidden-sm{
+	color: #337ab7 !important;
+}
+.container a{
+	cursor: pointer;
+}
+.active{
+	color: #fff !important;
+}

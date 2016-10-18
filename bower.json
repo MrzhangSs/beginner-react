@@ -1,0 +1,25 @@
+{
+  "name": "react-app-demo",
+  "description": "react-app interlocutionDemo",
+  "main": "",
+  "authors": [
+    "zhangjianxin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react-demo",
+    "beginner-react"
+  ],
+  "homepage": "https://github.com/MrzhangSs/react-app-demo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}

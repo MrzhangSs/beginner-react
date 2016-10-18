@@ -1,0 +1,15 @@
+.main.container{
+	width: 970px;
+}
+.btn.btn-success.pull-right{
+	margin-left: 10px;
+}
+.form-control{
+	margin-bottom: 20px;
+}
+.media .vote-count{
+	display: block;
+}
+.media .btn.btn-default{
+	margin-bottom: 10px;
+}
