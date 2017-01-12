@@ -7,4 +7,13 @@
 
 ## 使用
 
-克隆项目 -> npm install 下载依赖项 -> bower install 下载依赖的类库 -> npm start 自动打开浏览器
+```
+  # install dependencies
+  npm i 
+  
+  # serve with hot reload at localhost:8080
+  npm ren dev
+  
+  # build for production with minification
+  npm run build
+```
